@@ -67,6 +67,8 @@ Text Editing: Regex is employed in text editors and programming languages for ta
 
 ## Author
 
+https://github.com/dakotawentz
+
 
 
 By the end of this tutorial, you'll have a comprehensive understanding of the specific regex and the various components that contribute to its functionality. Happy regexing!
